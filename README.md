@@ -1,1 +1,1 @@
-# BreakOut
+# This is a little game I like to call "Breakout". You use A and D to move the "Paddle" left and right, respectively. I added a scoring system for your amusement, and hope it brings some slight humor. Also, if the ball moves below the bottom edge of the screen, a new ball will some so you can try again. Plus, if you destroy all the blocks, you get an awesome winning screen congratulating you! Have loads of fun!
